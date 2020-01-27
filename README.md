@@ -1,2 +1,4 @@
 # daily-ui
-Daily UI practice
+Daily UI My　practice
+
+・Daily UI: http://www.dailyui.co/
